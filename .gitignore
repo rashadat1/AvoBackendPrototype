@@ -1,0 +1,7 @@
+.env
+deep-learning/data
+*.csv
+node_modules/
+deep-learning/data
+deep-learning/initial_exploration
+deep-learning/src/models
